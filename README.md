@@ -1,4 +1,4 @@
-##👋  I’m Swetha C
+## 👋 I’m Swetha C
 
 - 👀 I’m interested in Data Science field
 - 🌱 I’m currently learning AI & DS
