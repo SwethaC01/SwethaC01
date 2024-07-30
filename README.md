@@ -39,7 +39,7 @@
     <img src="https://avatars.githubusercontent.com/u/43799343?s=200&v=4" alt="Transformers" width="40" height="40"/> 
   </a>
   </p>
-<h4 align="left">Data Visualization and Analysis Tools:</h4>
+<h3 align="left">Data Visualization and Analysis Tools:</h3>
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
@@ -48,7 +48,7 @@
     <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/> 
   </a>
 </p>
-<h4 align="left">Databases:</h4>
+<h3 align="left">Databases:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
