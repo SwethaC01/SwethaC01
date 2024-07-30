@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Swetha C</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
+
 🚀 Aspiring Data Scientist with a Master’s in Data Science,🌱ready to dive into data exploration and innovation. 🌟 Excited to leverage Python and machine learning to uncover insights and drive impactful solutions.
 
 <h3 align="left">Connect with me:</h3>
